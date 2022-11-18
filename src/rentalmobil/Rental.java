@@ -121,7 +121,7 @@ public class Rental extends javax.swing.JFrame {
         });
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
-        jLabel1.setText("RENTAL MOBIL");
+        jLabel1.setText("RENTALa MOBIL");
 
         jLabel2.setText("No. Transaksi");
 
